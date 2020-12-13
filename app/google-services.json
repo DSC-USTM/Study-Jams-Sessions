@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845405660829",
+    "project_id": "studyjamsessions",
+    "storage_bucket": "studyjamsessions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845405660829:android:3c5a816ce8673c948f5674",
+        "android_client_info": {
+          "package_name": "com.callebdev.studyjamsessions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845405660829-t8t8b9im5fkn3te51tj4kake4ba943dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6D1qjfmrg6xMiIlNMR88V3CCs12sqaaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845405660829-t8t8b9im5fkn3te51tj4kake4ba943dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

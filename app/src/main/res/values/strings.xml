@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study Jam Sessions</string>
+    <string name="crie_uma_nova_session_do_android_study_jams">Crie uma nova session do Android Study Jams!</string>
+    <string name="voce_nao_tem_nenhuma_session">Voce nao tem nenhuma session...</string>
+    <string name="titulo_da_sessao">Titulo da Sessao</string>
+    <string-array name="dias_da_semana">
+        <item>Segunda</item>
+        <item>Quarta</item>
+        <item>Sabado</item>
+    </string-array>
+</resources>
