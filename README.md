@@ -1,7 +1,8 @@
 # Study-Jams-Sessions
 
-Esta aplicacao e referente a quarta sessao do Android Study Jams do [DSC USTM](https://dsc.community.dev/universidade-sao-tomas-de-mocambique/).
-Atraves do cloud Firestore do Firebase, a aplicacao permite agendar novas sessoes para o Android Study Jams.
+Esta aplicação foi criada para quarta sessão do Android Study Jams do [DSC USTM] (https://dsc.community.dev/universidade-sao-tomas-de-mocambique/).
+
+Por meio do Firebase (Firestore), o aplicativo permite agendar novas sessões para Android Study Jams.
 
 ## Funcionalidades
 1. Criar nova sessao
